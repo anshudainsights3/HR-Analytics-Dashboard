@@ -42,5 +42,5 @@ Business Impact & Insights:
 
 Strategic Decision Making: Empower HR leadership with data-driven insights for policy planning.
 
-Screenshot:
+Screenshot:https://github.com/anshudainsights3/HR-Analytics-Dashboard/blob/main/HR%20Dashboard.png
 
